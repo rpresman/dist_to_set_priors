@@ -16,7 +16,7 @@ The results in this example can be obtained by running the code found in the fil
 The following files contain supporting `stan` code:
 
 * `relaxed_sqd_vmf_sampling.stan` contains the distance-to-set prior
-* `relaxed_vmf_sampling.stan` contains the constraint relaxatio method of Duan et al. (2022)
+* `relaxed_vmf_sampling.stan` contains the constraint relaxation method of Duan et al. (2022)
 
 The results in this example can be obtained by running the code found in the file `robust_vmf.R`.
 
