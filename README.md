@@ -13,7 +13,7 @@ The results in this example can be obtained by running the code found in the fil
 
 ## Sampling a Lower-Dimensional Surface
 
-The following files contain support `stan` code:
+The following files contain supporting `stan` code:
 
 * `relaxed_sqd_vmf_sampling.stan` contains the distance-to-set prior
 * `relaxed_vmf_sampling.stan` contains the constraint relaxatio method of Duan et al. (2022)
