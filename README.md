@@ -22,5 +22,5 @@ The results in this example can be obtained by running the code found in the fil
 
 ## Real Data Case Study
 
-The results in this example can be obtained by running the code found in the file `stoch_dominance.R`. This file contains all supporting functions, including the HMC sampler, along with the data needed to run the this example.
+The results in this example can be obtained by running the code found in the file `stoch_dominance.R`. This file contains all supporting functions, including the HMC sampler, along with the data needed to run this example.
 
