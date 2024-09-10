@@ -1,6 +1,6 @@
 # Distance-to-Set Priors and Bayesian Constraint Relaxation
 
-This is the repo with supporting code for the paper ["Distance-to-Set Priors and Bayesian Constraint Relaxation"](https://proceedings.mlr.press/v206/presman23a/presman23a.pdf) (Presman and Xu, 2023), presented at AISTATS 2023. This README will review what files are located in the repo for each experiment.
+This is the repo with supporting code for the paper ["Distance-to-Set Priors and Bayesian Constraint Relaxation"](https://proceedings.mlr.press/v206/presman23a/presman23a.pdf) (Presman and Xu, 2023), presented at AISTATS 2023. This README will provide an overview of what files are located in the repo for each experiment.
 
 ## Regression over the $\ell_2$-ball
 
